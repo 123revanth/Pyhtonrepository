@@ -6,4 +6,5 @@ else:
     print("you are not eligible to vote")
     
 print("Don't worry u will can vote after few years")
-print("Have a good day") 
+print("if you have already voted then good luck for your elected person to win")
+
