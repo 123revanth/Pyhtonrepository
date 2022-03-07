@@ -1,4 +1,4 @@
-# Pyhtonrep
+# Pyhtonrepository
 
 Hello i am Revanth Jallipalli
 
