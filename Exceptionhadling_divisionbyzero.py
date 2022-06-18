@@ -9,4 +9,4 @@ try:
     returned = division(a)
     print(returned)
 except ZeroDivisionError:
-    print("ZeroDivisionError Occurred and Handled")
+    print("ZeroDivisionError Occurred please enter a greater number than 3")
