@@ -3,8 +3,8 @@ from unicodedata import name
 from xml.dom.minidom import CharacterData
 
 
-HOST = 'www.youtube.com'  # Server hostname or IP address
-PORT = 80                # The standard port for HTTP is 80, for HTTPS it is 443
+HOST = 'www.youtube.com'  
+PORT = 80                
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_address = (HOST, PORT)
