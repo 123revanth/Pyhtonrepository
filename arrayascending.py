@@ -25,8 +25,9 @@ while(l <= n):
             smallesnum = list[i]
 
     newlist.append(smallesnum)
+    list.pop(i)
     smallesnum = 0
     i = i + 1
 
 for i in range(n):
-    print(newlist[i])
+    print(newlist[i])   
