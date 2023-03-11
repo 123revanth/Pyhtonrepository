@@ -29,5 +29,6 @@ for i in range(0,len(arr1)):
         if(arr1[i] == arr2[j]):
             if(largest <= arr1[i]):
                 largest = arr1[i]
+
 print("highest common factor")
 print(largest)
